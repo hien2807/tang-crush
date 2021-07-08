@@ -9,7 +9,6 @@ const CONFIG = {
     desc: 'Cố gắng, phấn đấu làm thật tốt nhaaa ',
     btnYes: 'oke luôn em êiii 😎',
     btnNo: 'Hơi rén ==" ',
-    question:'Với em, Đường mãi đỉnh, nhờ :)))',
-    btnReply: 'Gửi cho em <3',
-    reply: 'Cố thì cố mà không cố cũng phải cố ^^ <33333333'
 }
+    
+    
